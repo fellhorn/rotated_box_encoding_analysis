@@ -1,2 +1,2 @@
 # rotated_box_encoding_analysis
-Analaysis of differnet box encodings for object detection with rotated boxes
+Analysis of different box encodings for object detection with rotated boxes
